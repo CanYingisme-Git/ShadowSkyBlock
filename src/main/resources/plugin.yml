@@ -1,0 +1,5 @@
+name: ShadowSkyBlockCore
+version: ${project.version}
+main: pw.canyingisme.shadowskyblockcore.Main
+authors: [CanYingisme]
+description: ShadowSkyBlock Core
